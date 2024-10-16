@@ -9,4 +9,4 @@ Repository ini berisi presentasi kelompok tentang pemrograman socket menggunakan
 - **Ervin Agustian Gunawan** - 2023
 
 ## Link Youtube
-- Berikut adalah link video presentasi yang dapat diakses: 
+- Berikut adalah link video presentasi yang dapat diakses: https://youtu.be/cNj6cpLK-UY
